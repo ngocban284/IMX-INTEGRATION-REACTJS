@@ -1,0 +1,53 @@
+.navbar-light .navbar-nav .nav-link {
+  color: #000;
+}
+
+.nav-background {
+  background-color: rgb(15, 17, 23);
+}
+
+.button-background {
+  background-color: rgb(100, 206, 230);
+  margin: 4px;
+}
+
+.filter-button {
+  margin: 4px;
+}
+
+.filter-button-connect {
+  margin-left: 40px;
+}
+
+.text-filter {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+h2 {
+  color: rgb(100, 206, 230);
+}
+
+.container-color {
+  background-color: rgb(26, 30, 42);
+}
+
+.text-body-filter {
+  color: rgb(100, 206, 230);
+  font-weight: bold;
+  font-size: large;
+  margin-top: 20px;
+}
+
+.form-input {
+  background-color: rgb(15, 17, 23);
+  margin: 5px;
+}
